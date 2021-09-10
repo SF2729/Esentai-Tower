@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "title": "wwewe",
+      "price": "weweew",
+      "photo": "wewe",
+      "description": "wewewe",
+      "id": 1
+    },
+    {
+      "title": "qqq",
+      "price": "qq",
+      "photo": "qq",
+      "description": "2222",
+      "id": 2
+    }
+  ]
+}
